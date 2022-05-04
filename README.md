@@ -1,2 +1,2 @@
 # python-study
-this is my python study project file
+this is my python study notes
