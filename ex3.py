@@ -1,6 +1,7 @@
 print("I will now count my chickens:")
 
 print("Hens",225 +30 / 6)
+#如果最终结果要以小数形式展示那就/1
 print("R", 100-25*3%4)
 
 print("Now I will count the eggs:")
