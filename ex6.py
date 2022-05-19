@@ -8,6 +8,9 @@ y = f"Theose who know {binary} and those who {do_not}."
 print(x)
 print(y)
 
+print(f"If I said : {x}")
+print(f"I also said : {y}")
+
 hilarious = False
 joke_evalution = "Isn't that joke so funny?! {}"
 
